@@ -2,7 +2,7 @@
 
 Redstone Equipment requires JEI (v1.19.2 or above versions).
 
-ALL TEXTURES ARE MADE BY MY DISCORD FRIEND EPICGAMERDOGGO! :D
+All Textures for Redstone Equipment are made by EpicGamerDoggo, My Discord Friend! :D
 
 Redstone Equipment is licensed under All Rights Reserved.
 
