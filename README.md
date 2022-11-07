@@ -7,6 +7,7 @@ Redstone Equipment is no longer being work on. This doesn't mean you can redistr
 JEI (v1.19.2) is recommended for viewing recipes for Redstone Equipment.
 
 **Credits:**
+
 All Textures for Redstone Equipment are made by EpicGamerDoggo, My Discord Friend! :D
 
 **License for Redstone Equipment and Redistributing Redstone Equipment:**
