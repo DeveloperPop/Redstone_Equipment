@@ -1,6 +1,6 @@
 # Redstone Equipment
 
-Redstone Equipment is no longer being work on. Redstone Equipment was a test Minecraft Mod for testing out making a Minecraft Mod.
+Redstone Equipment is no longer being work on. This doesn't mean you can redistribute my mod in any way without my permission. New Minecraft Mods will be made soon. 
 
 Redstone Equipment requires JEI (v1.19.2 or above versions).
 
