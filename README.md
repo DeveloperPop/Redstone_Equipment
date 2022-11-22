@@ -14,4 +14,5 @@
 
 -> Redstone Equipment is licensed under All Rights Reserved.
 
+-> You do have permission to use this mod in any modpack.
 -> YOU DO NOT HAVE PERMISSION TO USE REDISTRIBUTE MY MOD IN ANY WAY WITHOUT MY PERMISSION!
